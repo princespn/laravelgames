@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="42" viewBox="0 0 40 42">
+  <g id="calendar" transform="translate(-4 -3)">
+    <rect id="Rectangle_488" data-name="Rectangle 488" width="4" height="6" rx="2" transform="translate(11 3)" fill="#04396d"/>
+    <rect id="Rectangle_489" data-name="Rectangle 489" width="4" height="6" rx="2" transform="translate(33 3)" fill="#04396d"/>
+    <path id="Path_217" data-name="Path 217" d="M4,18V41a4,4,0,0,0,4,4H40a4,4,0,0,0,4-4V18ZM16,38a2,2,0,0,1-2,2H12a2,2,0,0,1-2-2V36a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2Zm0-11a2,2,0,0,1-2,2H12a2,2,0,0,1-2-2V25a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2ZM27,38a2,2,0,0,1-2,2H23a2,2,0,0,1-2-2V36a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2Zm0-11a2,2,0,0,1-2,2H23a2,2,0,0,1-2-2V25a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2ZM38,38a2,2,0,0,1-2,2H34a2,2,0,0,1-2-2V36a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2Zm0-11a2,2,0,0,1-2,2H34a2,2,0,0,1-2-2V25a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2Z" fill="#04396d"/>
+    <path id="Path_218" data-name="Path 218" d="M44,16V10a4,4,0,0,0-4-4H39V7a4,4,0,0,1-8,0V6H17V7A4,4,0,0,1,9,7V6H8a4,4,0,0,0-4,4v6Z" fill="#04396d"/>
+  </g>
+</svg>
